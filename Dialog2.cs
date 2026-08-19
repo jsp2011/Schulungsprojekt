@@ -8,6 +8,7 @@ namespace SchulungsprojektGit
         {
             Text = "Text für den zweiten Dialog Änderung im Branch Feat1";
             // Das wurde für die Schulung angepasst
+            // und noch ein neuer Kommentar
 
             Label lblText = new Label
             {
