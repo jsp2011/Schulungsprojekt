@@ -7,6 +7,7 @@ namespace SchulungsprojektGit
         public Dialog1()
         {
             Text = "Text für den ersten Dialog erste Änderung UH1 Changes";
+            // immer nur einer Zeile
 
             Label lblText = new Label
             {

@@ -7,6 +7,7 @@ namespace SchulungsprojektGit
         public Dialog4()
         {
             Text = "Text für den vierter Niklas Jürgen";
+            // immer nur einer Zeile
 
             Label lblText = new Label
             {
@@ -16,6 +17,7 @@ namespace SchulungsprojektGit
                 Top = 30
             };
 
+            // immer nur einer Zeile
             Controls.Add(lblText);
 
             StartPosition = FormStartPosition.CenterParent;
