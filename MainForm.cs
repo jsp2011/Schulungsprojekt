@@ -23,5 +23,10 @@ namespace SchulungsprojektGit
         {
             new Dialog3().ShowDialog();
         }
+        private void btnDialog4_Click(object sender, System.EventArgs e)
+        {
+            new Dialog4().ShowDialog();
+        }
+
     }
 }
