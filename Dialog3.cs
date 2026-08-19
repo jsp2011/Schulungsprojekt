@@ -15,6 +15,7 @@ namespace SchulungsprojektGit
                 Left = 40,
                 Top = 30
             };
+            // immer nur einer Zeile
 
             Controls.Add(lblText);
 
