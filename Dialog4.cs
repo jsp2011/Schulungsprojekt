@@ -6,7 +6,7 @@ namespace SchulungsprojektGit
     {
         public Dialog4()
         {
-            Text = "Text für den vierter Dialog1";
+            Text = "Text für den vierter Niklas";
 
             Label lblText = new Label
             {
