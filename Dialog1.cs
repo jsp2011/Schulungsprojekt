@@ -6,8 +6,7 @@ namespace SchulungsprojektGit
     {
         public Dialog1()
         {
-            Text = "Text für den ersten Dialog";
-            // Das ist meine änderung
+            Text = "Text für den ersten Dialog erste Änderung UH1 Changes";
 
             Label lblText = new Label
             {
