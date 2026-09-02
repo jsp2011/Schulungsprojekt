@@ -10,6 +10,7 @@ namespace SchulungsprojektGit
             // Änderung für Konflikt 2
             // Kommentar für den ersten Konflikt
             // Kommentar als außenstehender
+            
 
             Label lblText = new Label
             {
