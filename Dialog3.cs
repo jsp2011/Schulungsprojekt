@@ -11,6 +11,7 @@ namespace SchulungsprojektGit
             // Änderung 2 für Feat 2
             // Änderung 3 für Feat 2
 
+
             Label lblText = new Label
             {
                 Text = Text,
@@ -20,6 +21,8 @@ namespace SchulungsprojektGit
             };
 
             Controls.Add(lblText);
+
+            // Änderung als Mitglied des Repositorys
 
             StartPosition = FormStartPosition.CenterParent;
             ClientSize = new System.Drawing.Size(350, 100);
