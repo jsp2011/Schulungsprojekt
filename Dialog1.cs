@@ -7,6 +7,7 @@ namespace SchulungsprojektGit
         public Dialog1()
         {
             Text = "Text für den ersten Dialog zweite Änderung";
+            // Änderung für Konflikt 2
             // Kommentar für den ersten Konflikt
 
             Label lblText = new Label
