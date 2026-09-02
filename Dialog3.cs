@@ -7,6 +7,7 @@ namespace SchulungsprojektGit
         public Dialog3()
         {
             Text = "Text für den dritten Dialog";
+            // Änderung 1 für Feat 2
 
             Label lblText = new Label
             {
